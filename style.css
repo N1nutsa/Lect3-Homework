@@ -16,3 +16,9 @@
   border: dotted;
   background-color: lightgreen;
 }
+ul {
+  color: red;
+}
+ol {
+  color: blue;
+}
